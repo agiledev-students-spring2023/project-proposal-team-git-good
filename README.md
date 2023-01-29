@@ -1,6 +1,6 @@
 # Project Proposal
 
-Names: James Chen, Matthew Dong, Jonathan Zhou, Rohan K
+Names: James Chen, Matthew Dong, Jonathan Zhou, Rohan Khanderia
 
 ## Project Name
 
