@@ -14,13 +14,13 @@ Spaced repetition is a proven strategy with flashcards to help memory retention 
 
 All of these strategies are great, but they can be hard to implement on your own with clunky boxes of flashcards. Let **QuizVerse** do the heavy lifting for you.
 
-Whenever you have someting new to learn, just upload or type out your flashcards on **QuizVerse** and choose how many flashcards you want to review everyday. **QuizVerse** will remind you to study daily and give you points for a successful study session. Want to study beyond your scheduled daily sessions? **QuizVerse** also lets you freely study whenever you choose.
+Whenever you have someting new to learn, just upload or type out your flashcards on **QuizVerse** and choose how many flashcards you want to review everyday. The app will remind you to study daily and give you points for a successful study session. Want to study beyond your scheduled daily sessions? **QuizVerse** also lets you freely study whenever you choose.
 
 Who said studying couldn't be fun *and* fast?
 
 ## For whom?
 
-QuizVerse is designed with both students (like us) and teachers in mind, to help create a platform for learning through spaced repetition. For students approaching a new subject and preparing for an upcoming exam, to teachers who want to create an aggregated flashcard set to provide to their class, QuizVerse is created with all those use cases in mind. QuizVerse will work to maximize retention and activity for students through gamification, drawing from experience working with different platforms that offer services to self-study.
+**QuizVerse** is designed with both students (like us) and teachers in mind, to help create a platform for learning through spaced repetition. For students approaching a new subject and preparing for an upcoming exam, to teachers who want to create an aggregated flashcard set to provide to their class, **QuizVerse** is created with all those use cases in mind. **QuizVerse** will work to maximize retention and activity for students through gamification, drawing from experience working with different platforms that offer services to self-study.
 
 ## How?
 
