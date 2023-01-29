@@ -20,9 +20,21 @@ Who said studying couldn't be fun *and* fast?
 
 ## For whom?
 
-QuizVerse is designed with both students (like us) and teachers in mind, to help create a platform for learning through spaced repetition. For students approaching a new subject and preparing for an upcoming exam, to teachers who want to create an aggregated flashcard set to provide to their class, QuizVerse is created with all those use cases in mind. QuizVerse** will work to maximize retention and activity for students through gamification, drawing from experience working with different platforms that offer services to self-study.
+QuizVerse is designed with both students (like us) and teachers in mind, to help create a platform for learning through spaced repetition. For students approaching a new subject and preparing for an upcoming exam, to teachers who want to create an aggregated flashcard set to provide to their class, QuizVerse is created with all those use cases in mind. QuizVerse will work to maximize retention and activity for students through gamification, drawing from experience working with different platforms that offer services to self-study.
 
 ## How?
+
+First, create a username and password to create an account to save your flashcards under.
+
+To add new flashcards, just enter them as text or as images. You can also categorize the flashcards by the due date and subject.
+
+In your daily study session, QuizVerse will provide you with one side of the flashcard, and you'll have to recall what's on the other side. By completing your daily study session, you will receive points and extend your study streak. Your study streak will be displayed whenever you enter the app.
+
+You can also study on demand whenever you want to get points. You can narrow down what you want to study by subject or other category.
+
+Want to see how you're doing and what you need to spend more time on? QuizVerse can you show your study statistics and tell you which concepts you are doing better with.
+
+With QuizVerse, you can also share a set of flashcards with your friends and classmates. If you're a teacher or professor, you can create a flashcard set to share with your students. Your shared flashcards can also be password protected for privacy.
 
 ## Scope
 
