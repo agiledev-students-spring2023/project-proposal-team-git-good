@@ -42,4 +42,4 @@ The base website will only need to include a way to add flashcards and a way to 
 
 Previous projects have shown that creating a website with a sign in feature and multiple features is possible for groups of 4-5 in a semester, and our project appears to be a similar amount of work.
 
-If the base part of the project is too easy, we have many ideas for how to add new features. Some of these ideas include cosmetic customizations for the website and different features that can be purchased after gaining points from study streaks, and accessibility features such as text to speech and font size. 
+If the base part of the project is too easy, we have many ideas for how to add new features. Some of these ideas include cosmetic customizations for the website and different features that can be purchased after gaining points from study streaks, accessibility features such as text to speech and font size, and an implementation of a language translation API to help language learners or those who prefer to learn in a language comfortable to them.
